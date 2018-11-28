@@ -7,10 +7,10 @@ This is my first Basic 2D Android Game app way back year 2013. Using a java game
 
 
 
-#### Version
+#### Version:
 - Version 1.0 -  Incomplete (no ending and no levels)
 
-#### Technology and Tools
+#### Technology and Tools:
 - Game development framework - https://libgdx.badlogicgames.com/
 - Texture Packager - https://code.google.com/p/libgdx-texturepacker-gui/
 - Polygon editor - https://code.google.com/p/libgdx-polygoneditor/downloads/list
