@@ -1,12 +1,10 @@
 /**
- * AngryBee
- * Was my first Android game app. Codes worth sharing.
+ * AngryBee AngryMe
+ * This is my first Basic 2D Android Game app way back year 2013.
+ * Using a java game development framework called LibGDX - https://libgdx.badlogicgames.com/
  *
- * @copyright     Copyright (c) CMNWorks Christopher M. Natan
  * @author        Christopher M. Natan
- * @link          http://cmnworks.com
  * @version       1.0
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 package cmnworks.com.angrybee.android;
 
