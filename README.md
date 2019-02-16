@@ -1,5 +1,5 @@
 ## AngryBee
-An Android Game with an Angry Bee that wanted to escape from many obstacles.
+An Android Game with an Angry Bee  wanted to escape from many obstacles.
 This is my first Basic 2D Android Game app way back year 2013. Using a Java game development framework called LibGDX.
 
 
@@ -19,3 +19,6 @@ This is my first Basic 2D Android Game app way back year 2013. Using a Java game
 
 #### Demo:
 Youtube: https://www.youtube.com/watch?v=bm1q1LPLTM8
+
+#### Play Store:
+https://play.google.com/store/apps/details?id=com.cmnworks.angrybee
