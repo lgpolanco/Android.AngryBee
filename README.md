@@ -1,4 +1,4 @@
-## AngryBeev
+## AngryBee
 A bee who's been locked in a room is very angry and planning his escape. You'll have to help him avoid all the obstacleshe finds on his way out, since they could get him stuck back in the place he was trying to get away.
 
 Basic 2D Android game app way back year 2013. Using Java game development framework called LibGDX.
