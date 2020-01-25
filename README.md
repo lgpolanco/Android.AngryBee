@@ -1,6 +1,6 @@
 ## AngryBee
-An Android Game with an Angry Bee  wanted to escape from many obstacles.
-This is my first Basic 2D Android Game app way back year 2013. Using a Java game development framework called LibGDX.
+A bee who's been locked in a room is very angry and planning his escape. You'll have to help him avoid all the obstacleshe finds on his way out, since they could get him stuck back in the place he was trying to get away.
+Basic 2D Android game app way back year 2013. Using Java game development framework called LibGDX.
 
 
 ![alt tag](https://img.youtube.com/vi/bm1q1LPLTM8/hqdefault.jpg)
