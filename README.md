@@ -10,7 +10,7 @@ Basic 2D Android game app way back year 2013. Using Java game development framew
 #### Version:
 - Version 1.0 beta
 
-#### Game Engine:
+#### Game Resources:
 - Game development framework - https://libgdx.badlogicgames.com/
 - Texture Packager - https://code.google.com/p/libgdx-texturepacker-gui/
 - Polygon editor - https://code.google.com/p/libgdx-polygoneditor/downloads/list
