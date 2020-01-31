@@ -4,7 +4,7 @@ A bee who's been locked in a room is very angry and planning his escape. You'll 
 Basic 2D Android game app way back year 2013. Using Java game development framework called LibGDX.
 
 
-![alt tag](http://47.75.1.113/img/angrybee.jpg)
+![alt tag](http://www.cmnworks.com/img/angrybee.jpg)
 
 
 #### Version:
