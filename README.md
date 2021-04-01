@@ -21,6 +21,6 @@ Basic 2D Android game app way back year 2013. Using Java game development framew
 Youtube: https://www.youtube.com/watch?v=bm1q1LPLTM8
 
 #### Play Store:
-https://play.google.com/store/apps/details?id=com.cmnworks.angrybee
+https://play.google.com/store/apps/details?id=com.cmnworks.meetup
 
 Project Link: http://www.cmnworks.com/angry-bee.html
